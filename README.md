@@ -1,5 +1,7 @@
 # NIKKECommunityTasker
 
+> **项目已停止维护。** 项目已迁移至 [BlablalinkTasker](https://github.com/1204244136/BlablalinkTasker)，请使用新项目。
+
 Nikke 社区任务脚本 A script for completing community tasks of NIKKE
 
 nikke 社区任务脚本使用方法
